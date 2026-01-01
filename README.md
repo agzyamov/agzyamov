@@ -1,4 +1,4 @@
-## AI-native product builder (hands-on)
+## AI-native product builder
 
 I build and ship agentic SDLC workflows and DevOps automation: **specs → tasks → PRs → deploy**.
 
