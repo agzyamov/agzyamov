@@ -11,4 +11,4 @@ I build and ship agentic SDLC workflows and DevOps automation: **specs → tasks
 - **Copilot CLI/Agent in Actions**: https://github.com/agzyamov/ghcp-cli-in-actions-demo
 
 ### Tech
-Cursor · GitHub Copilot · GitHub Actions · Azure DevOps · Terraform
+Cursor · GitHub Copilot · GitHub Actions · Azure DevOps · AWS · Azure
