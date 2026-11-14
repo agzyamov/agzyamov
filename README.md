@@ -11,7 +11,6 @@ I started as a software developer in 2006 and led a development team, then spent
 
 ### Start here
 
-- [ai-native-sdlc](https://github.com/agzyamov/ai-native-sdlc): an Azure DevOps feature becomes a written spec through Copilot CLI in GitHub Actions, and the result is synced back to the board
 - [ghcp-cli-in-actions-demo](https://github.com/agzyamov/ghcp-cli-in-actions-demo): Copilot CLI and the Copilot coding agent running in GitHub Actions. Fork it and try it
 - [ado-copilot](https://github.com/agzyamov/ado-copilot): mention `@copilot` in an Azure DevOps work item discussion and get an answer that uses the work item's context
 
