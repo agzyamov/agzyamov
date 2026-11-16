@@ -18,7 +18,7 @@ I started as a software developer in 2006 and led a development team, then spent
 - **Knowledge graph:** LLM fact extraction with verbatim-quote verification, stored in Neo4j with neo4j-graphrag entity resolution
 - **Ingestion:** arXiv OAI-PMH harvesting, Docling PDF parsing with multimodal figure understanding, and incremental indexing through the LangChain Indexing API, orchestrated by Dagster
 - **Access control:** relationship-based authorization (OpenFGA) applied as a retrieval pre-filter, so every answer respects each paper's license
-- **Evaluation and observability:** DeepEval metrics (contextual precision and recall, faithfulness, answer relevancy, G-Eval) measured against a long-context baseline; Langfuse tracing
+- **Evaluation and observability:** DeepEval metrics (contextual precision and recall, faithfulness, answer relevancy, G-Eval), a golden question set and a long-context baseline mode for comparison; Langfuse tracing
 - **Engineering:** per-task model routing across the Anthropic API, OpenAI-compatible gateways and local models (Ollama); FastAPI with a generated OpenAPI contract and a typed React client (assistant-ui, Sigma.js); architecture documented in SEI Views and Beyond and enforced in CI; Playwright acceptance and accessibility tests
 
 ### Start here
